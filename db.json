@@ -1,1 +1,90 @@
-test
+{
+    "events": [
+        {
+            "id": 1527023226191,
+            "name": "Test",
+            "description": "<p>Test Desc</p>",
+            "start_date": "2018-06-30",
+            "end_date": "2018-06-30",
+            "location_name": "Chico - Butte College Skyway Center",
+            "category": "Featured",
+            "lat": 39.7155964,
+            "long": -121.798123,
+            "location": 4,
+            "calendar_dates": [
+                {
+                    "id": 1527023226191,
+                    "start": "2018-06-30",
+                    "title": "Test Title",
+                    "series_start_time": "10:00",
+                    "series_end_time": "13:00",
+                    "end": "2018-06-30"
+                }
+            ],
+            "series_start_date": [
+                {
+                    "0": "2018-06-30"
+                }
+            ],
+            "series_start_time": [
+                {
+                    "0": "10:00"
+                }
+            ],
+            "series_end_date": [
+                {
+                    "0": "2018-06-30"
+                }
+            ],
+            "series_end_time": [
+                {
+                    "0": "13:00"
+                }
+            ]
+        }
+    ],
+    "locations": [
+        {
+            "id": 4,
+            "name": "Chico - Butte College Skyway Center",
+            "street_address": "2480 Notre Dame Boulevard",
+            "city": "Chico",
+            "state": "CA",
+            "zip": "95926",
+            "lat": 39.7155964,
+            "long": -121.798123
+        },
+        {
+            "id": 5,
+            "name": "Oroville - Northern Valley Catholic Social Services Office",
+            "street_address": "2185 Baldwin Avenue",
+            "city": "Oroville",
+            "state": "CA",
+            "zip": "95966",
+            "lat": 39.5118164,
+            "long": -121.5535947
+        },
+        {
+            "id": 6,
+            "name": "Paradise - The Family Place - A Youth For Change Location",
+            "street_address": "1007 Billie Road",
+            "city": "Paradise",
+            "state": "CA",
+            "zip": "95969",
+            "lat": 39.7750315,
+            "long": -121.6354899
+        }
+    ],
+    "trainers": [
+        {
+            "id": 1525466427890,
+            "name": "Test Trainer"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1525467702365,
+            "name": "test Category"
+        }
+    ]
+}
